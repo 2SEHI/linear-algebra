@@ -1,5 +1,5 @@
 # Linear Algebra
-[유투브 강의 링크](https://www.youtube.com/playlist?list=PL127T2Zu76FuVMq1UQnZv9SG-GFIdZfLg)
+[유튜브 강의 링크](https://www.youtube.com/playlist?list=PL127T2Zu76FuVMq1UQnZv9SG-GFIdZfLg)
 
 
 
